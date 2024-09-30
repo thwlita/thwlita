@@ -7,7 +7,7 @@
 
 <div>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=thwlita&show_icons=true&include_all_commits=true,prs&cache_seconds=86400&rank_icon=github&hide_border=true&theme=github_dark"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=thwlita&layout=compact&langs_count=8&card_width=150&hide_border=true&theme=github_dark"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thwlita&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=github_dark"/>
 </div>
 
 ##
@@ -20,6 +20,6 @@
 ##
 
 <div>
-  <a href = "ferreirathali@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:ferreirathali@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ferreirathali/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
