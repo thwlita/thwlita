@@ -7,7 +7,7 @@
 
 <div>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=thwlita&show_icons=true&include_all_commits=true,prs&cache_seconds=86400&rank_icon=github&hide_border=true&theme=github_dark"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thwlita&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=github_dark"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thwlita&size_weight=0.5&count_weight=0.5&layout=compact&lang_count=8&hide_border=true&theme=github_dark"/>
 </div>
 
 ##
