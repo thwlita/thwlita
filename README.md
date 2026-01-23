@@ -1,7 +1,9 @@
-## Olá, seja bem-vindo! Me chamo Thalita Ferreira 👋🏼
-- 🎓 Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
-- ✨ Apaixonada por games e livros
-- 👩🏼‍💻 Pronomes: ela/dela
+## Olá, me chamo Thalita Ferreira 👋🏼
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência acadêmica em desenvolvimento web, no/low code, BI e IoT.
+
+Tenho interesse em sistemas, soluções digitais e organização de informações, sempre buscando aplicar a tecnologia em contextos reais.
+
+📌 Projetos acadêmicos desenvolvidos durante a graduação
 
 ##
 
@@ -19,6 +21,7 @@
 
 ##
 
+📫 Contato:
 <div>
   <a href="mailto:ferreirathali@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ferreirathali/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
